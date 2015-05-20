@@ -11,7 +11,7 @@ namespace Docker_App
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            DocBut.Text = "Changes";
+            DocBut.Text = "Change";
         }
     }
 }
